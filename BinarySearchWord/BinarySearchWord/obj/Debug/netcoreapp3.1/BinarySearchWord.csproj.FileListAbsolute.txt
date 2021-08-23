@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.exe
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.deps.json
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.dll
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\bin\Debug\netcoreapp3.1\BinarySearchWord.pdb
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.dll
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.pdb
+C:\Users\HP\source\repos\Algorithm programs\BinarySearchWord\BinarySearchWord\obj\Debug\netcoreapp3.1\BinarySearchWord.genruntimeconfig.cache

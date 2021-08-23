@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.exe
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.deps.json
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.dll
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\bin\Debug\netcoreapp3.1\CalenderProblem.pdb
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.dll
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.pdb
+C:\Users\HP\source\repos\Algorithm programs\Calender\Calender\obj\Debug\netcoreapp3.1\CalenderProblem.genruntimeconfig.cache

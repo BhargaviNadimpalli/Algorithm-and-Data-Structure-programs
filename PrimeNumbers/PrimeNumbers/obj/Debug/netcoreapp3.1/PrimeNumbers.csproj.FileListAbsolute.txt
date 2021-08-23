@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\Algorithm programs\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.AssemblyReference.cache

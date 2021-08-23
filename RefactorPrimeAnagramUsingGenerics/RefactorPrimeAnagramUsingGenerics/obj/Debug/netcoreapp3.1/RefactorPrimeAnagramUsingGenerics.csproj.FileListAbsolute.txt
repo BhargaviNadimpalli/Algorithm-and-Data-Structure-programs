@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.exe
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.deps.json
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.dll
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\bin\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.pdb
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.dll
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.pdb
+C:\Users\HP\source\repos\Algorithm programs\RefactorPrimeAnagramUsingGenerics\RefactorPrimeAnagramUsingGenerics\obj\Debug\netcoreapp3.1\RefactorPrimeAnagramUsingGenerics.genruntimeconfig.cache

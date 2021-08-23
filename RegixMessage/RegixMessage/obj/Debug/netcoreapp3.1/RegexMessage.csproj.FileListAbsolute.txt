@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.exe
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.deps.json
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.dll
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\bin\Debug\netcoreapp3.1\RegexMessage.pdb
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.dll
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.pdb
+C:\Users\HP\source\repos\Algorithm programs\RegixMessage\RegixMessage\obj\Debug\netcoreapp3.1\RegexMessage.genruntimeconfig.cache
